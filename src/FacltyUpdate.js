@@ -55,7 +55,7 @@ export default function FacltyUpdate(){
             navigate("/faclties");
         }) }}>
             
-         UPDATE FACLUTY
+        update FACLUTY
          </button>
          </td>
         </tr>
